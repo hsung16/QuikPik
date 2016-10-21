@@ -1,11 +1,5 @@
 # QuikPik
 
-000webhost.com
-email: quikpik18@gmail.com
-password: the18team
-
-
-
 QuikPik: A brain game consists of moving and colliding answer bubbles, users will have to follow the instructions and
          pick the correct bubbles.
 
